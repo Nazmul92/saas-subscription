@@ -1,0 +1,3 @@
+# Normalize line endings so a Windows checkout (core.autocrlf) matches the
+# bytes the app serves and the frontend spec compares against.
+* text=auto eol=lf
