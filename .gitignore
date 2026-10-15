@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local SQLite database (re-seed with: python server.py --reset)
+*.db
+*.db-wal
+*.db-shm
+
+# Editors / tooling
+.vscode/
+.idea/
+.adakode/
+
+# Local one-off helper scripts
+_ocr.ps1
